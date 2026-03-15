@@ -69,7 +69,6 @@ else:
 ~~~
 
 ## Output
-
 ~~~
 Series Queues with Infinite Capacity - Open Jackson Network
 
@@ -89,6 +88,5 @@ Average waiting time of an object in conveyor S1: 0.13 secs
 Average waiting time of an object in conveyor S2: 3.26 secs
 Average waiting time of an object in conveyor S3: 2.74 secs
 ~~~
-
 ## Result
 Thus the program is implemented and executed successfully.
