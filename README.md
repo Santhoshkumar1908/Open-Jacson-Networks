@@ -15,6 +15,7 @@ Visual components and Python
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 ## Program
+
 ~~~
 import math
 
@@ -71,7 +72,9 @@ else:
     print("Warning! Objects Overflow will happen in the conveyor")
 
 ~~~
+
 ## Output
+
 ~~~
 Series Queues with Infinite Capacity - Open Jackson Network
 
@@ -91,5 +94,6 @@ Average waiting time of an object in conveyor S1: 0.13 secs
 Average waiting time of an object in conveyor S2: 3.26 secs
 Average waiting time of an object in conveyor S3: 2.74 secs
 ~~~
+
 ## Result
 Thus the program is implemented and executed successfully.
