@@ -44,19 +44,14 @@ if (Lambda < Mu1) and (Lambda < Mu2) and (Lambda < Mu3):
     Ls1 = Lambda / (Mu1 - Lambda)
     Ls2 = Lambda / (Mu2 - Lambda)
     Ls3 = Lambda / (Mu3 - Lambda)
-
     Ls = Ls1 + Ls2 + Ls3  # Total number in system
-
     Lq1 = Ls1 - Lambda / Mu1
     Lq2 = Ls2 - Lambda / Mu2
     Lq3 = Ls3 - Lambda / Mu3
-
     Wq1 = Lq1 / Lambda
     Wq2 = Lq2 / Lambda
     Wq3 = Lq3 / Lambda
-
     Ws = Ls / (3 * Lambda)
-
     # Output
     print("Average number of objects in the system S1     : %0.2f" % Ls1)
     print("Average number of objects in the system S2     : %0.2f" % Ls2)
